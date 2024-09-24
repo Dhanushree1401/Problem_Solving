@@ -12,7 +12,6 @@ class Solution {
 
         int[] result = new int[n + 1];
         result[0] = 1; 
-       // System.arraycopy(digits, 0, result, 1, n); 
         return result;
         
     }
