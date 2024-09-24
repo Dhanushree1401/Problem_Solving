@@ -17,4 +17,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
