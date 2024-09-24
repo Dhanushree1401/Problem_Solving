@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0217-contains-duplicate) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0217-contains-duplicate) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## String
 |  |
@@ -28,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0136-single-number) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
