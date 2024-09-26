@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0283-move-zeroes) |
 | [1755-defuse-the-bomb](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1755-defuse-the-bomb) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Hash Table
@@ -70,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
