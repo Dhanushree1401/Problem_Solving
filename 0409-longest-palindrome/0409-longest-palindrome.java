@@ -18,17 +18,17 @@ class Solution {
         return length;
     }
 }*/
-        int[] charCounts = new int[126];
-        for (char ch : s.toCharArray()) {
+        int[] charCounts=new int[126];
+        for (char ch:s.toCharArray()) {
             charCounts[ch]++;
         }
-        int length = 0;
-        boolean countexit = false;
-        for (int count : charCounts) {
-            length += count / 2 * 2; 
-            if (count % 2 == 1) 
+        int length=0;
+        boolean countexit=false;
+        for (int count:charCounts) {
+            length+=count/2*2; 
+            if (count%2==1) 
             {
-                countexit = true;
+                countexit=true;
             }
         }
         if (countexit) {
