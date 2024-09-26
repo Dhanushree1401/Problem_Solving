@@ -4,19 +4,18 @@ class Solution {
         for (char ch : s.toCharArray()) {
             charCounts[ch]++;
         }
-
         int length = 0;
-        boolean oddCountExists = false;
+        boolean countexit = false;
         for (int count : charCounts) {
             length += count / 2 * 2; 
-            if (count % 2 == 1) {
-                oddCountExists = true; 
+            if (count % 2 == 1) 
+            {
+                countexit = true;
             }
         }
-        if (oddCountExists) {
+        if (countexit) {
             length++;
         }
-
         return length;
     }
 }
