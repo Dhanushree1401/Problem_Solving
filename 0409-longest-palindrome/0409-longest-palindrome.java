@@ -1,19 +1,19 @@
 class Solution {
     public int longestPalindrome(String s) {
-        Map<Character, Integer> tt = new HashMap<>();
+        int[] charCounts = new int[128];
         for (char ch : s.toCharArray()) {
-            tt.put(ch, tt.getOrDefault(ch, 0) + 1);
+            charCounts[ch]++;
         }
 
         int length = 0;
-        boolean dd = false;
-        for (int count : tt.values()) {
+        boolean oddCountExists = false;
+        for (int count : charCounts) {
             length += count / 2 * 2; 
             if (count % 2 == 1) {
-                dd = true;
+                oddCountExists = true; 
             }
         }
-        if (dd) {
+        if (oddCountExists) {
             length++;
         }
 
