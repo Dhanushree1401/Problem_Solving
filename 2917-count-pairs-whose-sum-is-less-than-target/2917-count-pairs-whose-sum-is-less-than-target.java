@@ -4,10 +4,9 @@ class Solution {
         int count=0;
         for(int i=0;i<n;i++)
         {
-            int a=nums.get(i);
             for(int j=i+1;j<n;j++)
             {
-                if(a+nums.get(j)<target)
+                if(nums.get(i)+nums.get(j)<target)
                 {
                     count+=1;
                 }
