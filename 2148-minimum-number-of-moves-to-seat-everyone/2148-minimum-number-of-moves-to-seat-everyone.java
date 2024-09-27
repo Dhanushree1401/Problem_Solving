@@ -5,7 +5,7 @@ class Solution {
         int sum=0,n=seats.length;
         for(int i=0;i<n;i++)
         { 
-            sum+=Math.abs(seats[i]-students[i]);
+            sum+=Math.abs(students[i]-seats[i]);
         }
         return sum;
     }
