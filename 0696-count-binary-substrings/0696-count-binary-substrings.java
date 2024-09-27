@@ -14,6 +14,6 @@ class Solution {
                 curr=1;
             }
         }
-        return re+Math.min(curr,prev);
+        return re+(curr < prev ? curr : prev);
     }
 }
