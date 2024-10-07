@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0303-range-sum-query-immutable) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0406-queue-reconstruction-by-height](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0406-queue-reconstruction-by-height) |
 | [0414-third-maximum-number](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0729-my-calendar-i](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0729-my-calendar-i) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0389-find-the-difference) |
+| [0406-queue-reconstruction-by-height](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0406-queue-reconstruction-by-height) |
 | [0414-third-maximum-number](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0414-third-maximum-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0406-queue-reconstruction-by-height) |
 | [0729-my-calendar-i](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0731-my-calendar-ii) |
 ## Ordered Set
@@ -224,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0232-implement-queue-using-stacks) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0406-queue-reconstruction-by-height) |
 <!---LeetCode Topics End-->
