@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1906-maximize-score-after-n-operations](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1906-maximize-score-after-n-operations) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2078-maximum-compatibility-score-sum](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2078-maximum-compatibility-score-sum) |
+| [2089-maximum-matrix-sum](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2089-maximum-matrix-sum) |
 | [2107-find-unique-binary-string](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2107-find-unique-binary-string) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0074-search-a-2d-matrix) |
 | [1036-rotting-oranges](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1036-rotting-oranges) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [2089-maximum-matrix-sum](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2089-maximum-matrix-sum) |
 | [2722-prime-in-diagonal](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2722-prime-in-diagonal) |
 ## Divide and Conquer
 |  |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0409-longest-palindrome](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0409-longest-palindrome) |
 | [0605-can-place-flowers](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0605-can-place-flowers) |
+| [2089-maximum-matrix-sum](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2089-maximum-matrix-sum) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Simulation
 |  |
