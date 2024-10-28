@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2107-find-unique-binary-string) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2586-longest-square-streak-in-an-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Hash Table
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2107-find-unique-binary-string](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2107-find-unique-binary-string) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2586-longest-square-streak-in-an-array) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## String
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0414-third-maximum-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0731-my-calendar-ii) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1675-magnetic-force-between-two-balls) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2586-longest-square-streak-in-an-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Matrix
 |  |
@@ -136,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1906-maximize-score-after-n-operations](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1906-maximize-score-after-n-operations) |
 | [2078-maximum-compatibility-score-sum](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2078-maximum-compatibility-score-sum) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2586-longest-square-streak-in-an-array) |
 ## Sliding Window
 |  |
 | ------- |
