@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2586-longest-square-streak-in-an-array) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2722-prime-in-diagonal](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2722-prime-in-diagonal) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2089-maximum-matrix-sum](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2089-maximum-matrix-sum) |
 | [2722-prime-in-diagonal](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2722-prime-in-diagonal) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1906-maximize-score-after-n-operations](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1906-maximize-score-after-n-operations) |
 | [2078-maximum-compatibility-score-sum](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2078-maximum-compatibility-score-sum) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2586-longest-square-streak-in-an-array) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Sliding Window
 |  |
 | ------- |
