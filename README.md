@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0443-string-compression) |
 | [0696-count-binary-substrings](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0696-count-binary-substrings) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
