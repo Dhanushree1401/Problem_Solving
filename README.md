@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1906-maximize-score-after-n-operations](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1906-maximize-score-after-n-operations) |
+| [1940-maximum-xor-for-each-query](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1940-maximum-xor-for-each-query) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2078-maximum-compatibility-score-sum](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2078-maximum-compatibility-score-sum) |
 | [2089-maximum-matrix-sum](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2089-maximum-matrix-sum) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1906-maximize-score-after-n-operations](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1906-maximize-score-after-n-operations) |
+| [1940-maximum-xor-for-each-query](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1940-maximum-xor-for-each-query) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2078-maximum-compatibility-score-sum](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2078-maximum-compatibility-score-sum) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0303-range-sum-query-immutable) |
 | [0731-my-calendar-ii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0731-my-calendar-ii) |
+| [1940-maximum-xor-for-each-query](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1940-maximum-xor-for-each-query) |
 ## Segment Tree
 |  |
 | ------- |
