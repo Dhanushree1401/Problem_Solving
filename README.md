@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2554-minimum-total-distance-traveled](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2586-longest-square-streak-in-an-array) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2716-prime-subtraction-operation) |
 | [2722-prime-in-diagonal](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2722-prime-in-diagonal) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2554-minimum-total-distance-traveled](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3291-find-if-array-can-be-sorted) |
 ## Binary Search
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1675-magnetic-force-between-two-balls](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1675-magnetic-force-between-two-balls) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2586-longest-square-streak-in-an-array) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2716-prime-subtraction-operation) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Matrix
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0443-string-compression) |
 | [0696-count-binary-substrings](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0696-count-binary-substrings) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Design
 |  |
