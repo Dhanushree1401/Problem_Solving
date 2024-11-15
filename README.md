@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0037-sudoku-solver](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0066-plus-one) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0010-regular-expression-matching) |
+| [0042-trapping-rain-water](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0053-maximum-subarray) |
 | [0140-word-break-ii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0140-word-break-ii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0042-trapping-rain-water) |
 | [0283-move-zeroes](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -336,12 +339,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0042-trapping-rain-water) |
 | [0232-implement-queue-using-stacks](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0232-implement-queue-using-stacks) |
 | [0739-daily-temperatures](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0739-daily-temperatures) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0739-daily-temperatures) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Queue
