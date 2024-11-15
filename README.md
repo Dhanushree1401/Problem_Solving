@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0374-guess-number-higher-or-lower](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0374-guess-number-higher-or-lower) |
 | [0729-my-calendar-i](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0731-my-calendar-ii) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0303-range-sum-query-immutable) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0729-my-calendar-i](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0731-my-calendar-ii) |
 ## Prefix Sum
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0220-contains-duplicate-iii) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0729-my-calendar-i](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0731-my-calendar-ii) |
 ## Greedy
