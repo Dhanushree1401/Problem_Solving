@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0136-single-number) |
 | [0140-word-break-ii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0140-word-break-ii) |
+| [0149-max-points-on-a-line](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0149-max-points-on-a-line) |
 | [0217-contains-duplicate](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0220-contains-duplicate-iii) |
 | [0268-missing-number](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0268-missing-number) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0076-minimum-window-substring) |
 | [0140-word-break-ii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0140-word-break-ii) |
+| [0149-max-points-on-a-line](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0149-max-points-on-a-line) |
 | [0217-contains-duplicate](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0066-plus-one) |
+| [0149-max-points-on-a-line](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0149-max-points-on-a-line) |
 | [0268-missing-number](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0415-add-strings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -411,4 +414,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0220-contains-duplicate-iii) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
