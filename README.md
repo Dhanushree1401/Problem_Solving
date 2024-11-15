@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0136-single-number) |
 | [0140-word-break-ii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0140-word-break-ii) |
 | [0217-contains-duplicate](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0217-contains-duplicate) |
+| [0220-contains-duplicate-iii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0220-contains-duplicate-iii) |
 | [0268-missing-number](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0287-find-the-duplicate-number) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0217-contains-duplicate) |
+| [0220-contains-duplicate-iii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0220-contains-duplicate-iii) |
 | [0268-missing-number](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0389-find-the-difference) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0220-contains-duplicate-iii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0220-contains-duplicate-iii) |
 | [1755-defuse-the-bomb](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1755-defuse-the-bomb) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0220-contains-duplicate-iii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0220-contains-duplicate-iii) |
 | [0729-my-calendar-i](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0731-my-calendar-ii) |
 ## Greedy
@@ -369,4 +373,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0140-word-break-ii) |
+## Bucket Sort
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->
