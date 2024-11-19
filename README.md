@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2554-minimum-total-distance-traveled](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2586-longest-square-streak-in-an-array) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2107-find-unique-binary-string](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2107-find-unique-binary-string) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2586-longest-square-streak-in-an-array) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1755-defuse-the-bomb](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1755-defuse-the-bomb) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Counting
