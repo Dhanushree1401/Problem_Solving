@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0739-daily-temperatures) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1036-rotting-oranges](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1036-rotting-oranges) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0074-search-a-2d-matrix) |
 | [1036-rotting-oranges](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1036-rotting-oranges) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2089-maximum-matrix-sum](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2343-count-unguarded-cells-in-the-grid) |
