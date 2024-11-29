@@ -1,38 +1,51 @@
 class Solution {
+    private static final int[][] MOVES = {{-1, 0}, {0, 1}, {1, 0}, {0, -1}};
+    
     public int minimumTime(int[][] grid) {
-        if (Math.min(grid[0][1], grid[1][0]) > 1) {
+        int rows = grid.length;
+        int cols = grid[0].length;
+        
+        if (grid[0][1] > 1 && grid[1][0] > 1) {
             return -1;
         }
         
-        int ROWS = grid.length, COLS = grid[0].length;
-        PriorityQueue<int[]> minHeap = new PriorityQueue<>((a, b) -> a[0] - b[0]);
-        minHeap.offer(new int[]{0, 0, 0}); 
-        Set<String> visit = new HashSet<>();
+        PriorityQueue<int[]> pq = new PriorityQueue<>((a, b) -> a[0] - b[0]); 
+        boolean[][] seen = new boolean[rows][cols];
         
-        while (!minHeap.isEmpty()) {
-            int[] curr = minHeap.poll();
-            int t = curr[0], r = curr[1], c = curr[2];
+        pq.offer(new int[]{0, 0, 0}); // time, row, col
+        seen[0][0] = true;
+        
+        while (!pq.isEmpty()) {
+            int[] curr = pq.poll();
+            int time = curr[0];
+            int row = curr[1];
+            int col = curr[2];
             
-            if (r == ROWS - 1 && c == COLS - 1) {
-                return t;
-            }
-            
-            int[][] dirs = {{1, 0}, {-1, 0}, {0, 1}, {0, -1}};
-            for (int[] dir : dirs) {
-                int nr = r + dir[0], nc = c + dir[1];
-                String key = nr + "," + nc;
+            for (int[] dir : MOVES) {
+                int newRow = row + dir[0];
+                int newCol = col + dir[1];
                 
-                if (nr < 0 || nc < 0 || nr == ROWS || nc == COLS || 
-                    visit.contains(key)) {
+                if (newRow < 0 || newRow >= rows || 
+                    newCol < 0 || newCol >= cols || 
+                    seen[newRow][newCol]) {
                     continue;
                 }
                 
-                int wait = (Math.abs(grid[nr][nc] - t) % 2 == 0) ? 1 : 0;
-                int nTime = Math.max(grid[nr][nc] + wait, t + 1);
-                minHeap.offer(new int[]{nTime, nr, nc});
-                visit.add(key);
+                int newTime = time + 1;
+                if (grid[newRow][newCol] > newTime) {
+                    int wait = ((grid[newRow][newCol] - newTime + 1) / 2) * 2;
+                    newTime += wait;
+                }
+                
+                if (newRow == rows - 1 && newCol == cols - 1) {
+                    return newTime;
+                }
+                
+                seen[newRow][newCol] = true;
+                pq.offer(new int[]{newTime, newRow, newCol});
             }
         }
+        
         return -1;
     }
 }
