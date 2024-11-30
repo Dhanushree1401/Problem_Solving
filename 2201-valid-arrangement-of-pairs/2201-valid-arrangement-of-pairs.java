@@ -1,47 +1,54 @@
-class Solution {
-    List<Integer> circuit;
-    public int[][] validArrangement(int[][] pairs) {
-        Map<Integer, List<Integer>> graph=new HashMap();
-        Map<Integer, Integer> node=new HashMap();
+class Solution 
+{
+    private Map<Integer,List<Integer>> ad = new HashMap<>();
+    private Map<Integer,Integer> in = new HashMap<>();
+    private Map<Integer,Integer> out = new HashMap<>();
+    public int[][] validArrangement(int[][] pairs) 
+    {
+        for(int i[]: pairs)
+        {
+            ad.computeIfAbsent(i[0], k-> new ArrayList<>()).add(i[1]);
+            out.put(i[0],out.getOrDefault(i[0],0)+1);
+            in.put(i[1],in.getOrDefault(i[1],0)+1);
+        }    
 
-        for(int[] pair:pairs){
-            if(!graph.containsKey(pair[0])){
-                graph.put(pair[0], new ArrayList());
-            }
-            graph.get(pair[0]).add(pair[1]);  
-            node.put(pair[0], node.getOrDefault(pair[0],0)-1); 
-            node.put(pair[1], node.getOrDefault(pair[1],0)+1); 
-        }
+        int s = findStart(),l=pairs.length,k=0;
+        Stack<Integer> res = new Stack<>();
+        findPath(s,res);
+        int[][] ans = new int[l][2];
 
-        int startNode=pairs[0][0];
-        for(Map.Entry<Integer, Integer> enty:node.entrySet()){
-            if(enty.getValue()==-1){
-                startNode=enty.getKey();
-                break;
-            }
-        }
-
-        circuit=new ArrayList();
-        dfs(graph, startNode);
-        Collections.reverse(circuit);
-        
-       
-        int[][] result=new int[pairs.length][2];
-        for(int i=1; i<circuit.size(); i++){
-            result[i-1][0]=circuit.get(i-1);
-            result[i-1][1]=circuit.get(i);
-        }
-
-        return result;
+        while(k<l)
+        {
+            ans[k][0] = res.pop();
+            ans[k++][1] = res.peek();
+        }        
+        return ans;
     }
-
-    void dfs(Map<Integer, List<Integer>> graph, int u){
-        while(graph.containsKey(u) && !graph.get(u).isEmpty()){
-            int v=graph.get(u).remove(0);
-            dfs(graph, v);
+    public int findStart()
+    {
+        int s =0;
+        for(Map.Entry<Integer,Integer> i : out.entrySet())
+        {
+            int a = i.getValue(), b = i.getKey();
+            if(a-in.getOrDefault(b,0)==1)
+            {
+                return b;
+            }
+            if(b>0)
+            {
+                s = b;
+            }
         }
-        circuit.add(u);
+        return s;
     }
-
-
+    public void findPath(int cur,Stack<Integer> s)
+    {
+        while(out.getOrDefault(cur,0)>0)
+        {
+            out.put(cur,out.get(cur)-1);
+            int nxt = ad.get(cur).get(out.get(cur));
+            findPath(nxt,s);
+        }
+        s.push(cur);
+    }
 }
