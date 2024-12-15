@@ -1,28 +1,39 @@
+import java.util.PriorityQueue;
+
 class Solution {
-    public double maxAverageRatio(int[][] cls, int extra) {
-    
-        PriorityQueue<double[]> pq = new PriorityQueue<>((a, b) -> Double.compare(b[0], a[0]));
+    public double maxAverageRatio(int[][] classes, int extraStudents) {
+        int n = classes.length;
+        double x = 0;
 
-        for (int[] c : cls) {
-            int p = c[0], t = c[1];
-            pq.offer(new double[]{gain(p, t), p, t});
+        PriorityQueue<int[]> pq = new PriorityQueue<>((a, b) -> {
+            double gainA = gain(a[0], a[1]);
+            double gainB = gain(b[0], b[1]);
+            return Double.compare(gainB, gainA);
+        });
+
+        for (int[] s : classes) {
+            pq.offer(s);
         }
 
-        while (extra-- > 0) {
-            double[] top = pq.poll();
-            double g = top[0];
-            int p = (int) top[1], t = (int) top[2];
-            pq.offer(new double[]{gain(p + 1, t + 1), p + 1, t + 1});
+        while (extraStudents-- > 0) {
+            int[] s = pq.poll();
+            s[0]++;
+            s[1]++;
+            pq.offer(s);
         }
 
-        double sum = 0;
-        for (double[] c : pq) {
-            sum += c[1] / c[2];
+        double max = 0;
+        while (!pq.isEmpty()) {
+            int[] s = pq.poll();
+            max += (double) s[0] / s[1];
         }
 
-        return sum / cls.length;
+        return max / n;
     }
-    private double gain(int p, int t) {
-        return (double) (p + 1) / (t + 1) - (double) p / t;
+
+    private double gain(int a, int b) {
+        double currentRatio = (double) a / b;
+        double newRatio = (double) (a + 1) / (b + 1);
+        return newRatio - currentRatio;
     }
 }
