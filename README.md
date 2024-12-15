@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1906-maximize-score-after-n-operations](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1906-maximize-score-after-n-operations) |
+| [1917-maximum-average-pass-ratio](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1917-maximum-average-pass-ratio) |
 | [1940-maximum-xor-for-each-query](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1972-rotating-the-box) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0409-longest-palindrome) |
 | [0605-can-place-flowers](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0605-can-place-flowers) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1917-maximum-average-pass-ratio](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1917-maximum-average-pass-ratio) |
 | [2089-maximum-matrix-sum](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2089-maximum-matrix-sum) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1917-maximum-average-pass-ratio](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1917-maximum-average-pass-ratio) |
 | [2164-two-best-non-overlapping-events](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2164-two-best-non-overlapping-events) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2692-take-gifts-from-the-richest-pile) |
