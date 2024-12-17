@@ -1,25 +1,28 @@
 class Solution {
     public String repeatLimitedString(String s, int repeatLimit) {
-        int [] vocab = new int[26]; 
-        for (char ch : s.toCharArray()) vocab[ch - 'a']++;
-        StringBuilder sb = new StringBuilder();
-        int idx = 25;
-        while (idx >= 0) {
-            if (vocab[idx] == 0) {
-                idx--;
-                continue;
+         int letter[]=new int[26];
+         StringBuilder sb=new StringBuilder();
+         for(char ch:s.toCharArray())
+         letter[ch-'a']++;
+         for(int i=25;i>=0;--i)
+         {
+            int index=i-1;
+            while(true)
+            {
+                for(int k=Math.min(repeatLimit,letter[i]);k>0;k--){
+                    letter[i]--;
+                    sb.append((char)('a'+i));
+                }
+                if(letter[i]==0)
+                break;
+                while(index >=0 && letter[index]==0)
+                --index;
+                if(index < 0) 
+                break;
+                letter[index]--;
+                sb.append((char)('a'+index)); 
             }
-            int count = Math.min(vocab[idx], repeatLimit);
-            for (int i = 0 ; i < count ; i++) sb.append((char)(idx + 'a'));
-            vocab[idx] -= count;
-            if (vocab[idx] > 0) {  
-                int next = idx - 1;
-                while (next >= 0 && vocab[next] == 0) next--; 
-                if (next < 0) break;
-                sb.append((char) (next + 'a')); 
-                vocab[next]--;
-            }
-        }
-        return sb.toString();
+         }
+         return sb.toString();
     }
 }
