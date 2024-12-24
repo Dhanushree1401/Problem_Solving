@@ -1,50 +1,59 @@
+import java.util.*;
+
 class Solution {
-    int dia;
-    public int minimumDiameterAfterMerge(int[][] edges1, int[][] edges2) {
-        int n1 = edges1.length + 1;
-        int n2 = edges2.length + 1;
-        ArrayList<Integer>[] graph1 = new ArrayList[n1];
-        ArrayList<Integer>[] graph2 = new ArrayList[n2];
-
-        for (int i = 0; i < n1; i++) graph1[i] = new ArrayList<>();
-        for (int i = 0; i < n2; i++) graph2[i] = new ArrayList<>();
-        for (int[] edge : edges1) {
-            graph1[edge[0]].add(edge[1]);
-            graph1[edge[1]].add(edge[0]);
+    private void build(List<List<Integer>> adj, int[][] edges) {
+        for (int[] edge : edges) {
+            adj.get(edge[0]).add(edge[1]);
+            adj.get(edge[1]).add(edge[0]);
         }
-        for (int[] edge : edges2) {
-            graph2[edge[0]].add(edge[1]);
-            graph2[edge[1]].add(edge[0]);
-        }
-        dia = -1;
-        boolean[] visited1 = new boolean[n1];
-        getDia(0, graph1, visited1);
-        int d1 = dia;
-
-        dia = -1;
-        boolean[] visited2 = new boolean[n2];
-        getDia(0, graph2, visited2);
-        int d2 = dia;
-
-        int cand = (d1 + 1) / 2 + (d2 + 1) / 2 + 1;
-        return Math.max(cand, Math.max(d1, d2));
     }
-    private int getDia(int src, ArrayList<Integer>[] graph, boolean[] visited) {
-        visited[src] = true;
-        int dch = -1, sdch = -1;
 
-        for (int child : graph[src]) {
-            if (!visited[child]) {
-                int ch = getDia(child, graph, visited);
-                if (ch > dch) {
-                    sdch = dch;
-                    dch = ch;
-                } else if (ch > sdch) {
-                    sdch = ch;
-                }
+    private void get(int[] p, List<List<Integer>> adj, int node, int dis, boolean[] vis) {
+        int d = p[1];
+        vis[node] = true;
+        if (dis > d) {
+            p[0] = node;
+            p[1] = dis;
+        }
+        for (int neighbor : adj.get(node)) {
+            if (!vis[neighbor]) {
+                get(p, adj, neighbor, dis + 1, vis);
             }
         }
-        if (dch + sdch + 2 > dia) dia = dch + sdch + 2;
-        return dch + 1;
+    }
+
+    public int minimumDiameterAfterMerge(int[][] edges1, int[][] edges2) {
+        int n = edges1.length + 1;
+        int m = edges2.length + 1;
+        List<List<Integer>> adj1 = new ArrayList<>();
+        List<List<Integer>> adj2 = new ArrayList<>();
+        for (int i = 0; i < n; i++) adj1.add(new ArrayList<>());
+        for (int i = 0; i < m; i++) adj2.add(new ArrayList<>());
+
+        build(adj1, edges1);
+        build(adj2, edges2);
+
+        int[] p1 = new int[]{-1, Integer.MIN_VALUE};
+        boolean[] vis = new boolean[n];
+        get(p1, adj1, 0, 0, vis);
+
+        int[] p2 = new int[]{-1, Integer.MIN_VALUE};
+        Arrays.fill(vis, false);
+        get(p2, adj1, p1[0], 0, vis);
+        int d1 = p2[1];
+
+        p1 = new int[]{-1, Integer.MIN_VALUE};
+        vis = new boolean[m];
+        get(p1, adj2, 0, 0, vis);
+
+        p2 = new int[]{-1, Integer.MIN_VALUE};
+        Arrays.fill(vis, false);
+        get(p2, adj2, p1[0], 0, vis);
+        int d2 = p2[1];
+
+        if (edges1.length == 0) d1 = 0;
+        if (edges2.length == 0) d2 = 0;
+
+        return Math.max(Math.max(d1, d2), (d1 + 1) / 2 + (d2 + 1) / 2 + 1);
     }
 }
