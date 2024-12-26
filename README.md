@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0406-queue-reconstruction-by-height](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0406-queue-reconstruction-by-height) |
 | [0414-third-maximum-number](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0494-target-sum](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0494-target-sum) |
 | [0605-can-place-flowers](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0605-can-place-flowers) |
 | [0729-my-calendar-i](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0731-my-calendar-ii) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0053-maximum-subarray) |
 | [0140-word-break-ii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0140-word-break-ii) |
+| [0494-target-sum](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0494-target-sum) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1906-maximize-score-after-n-operations](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1906-maximize-score-after-n-operations) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0051-n-queens) |
 | [0140-word-break-ii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0140-word-break-ii) |
+| [0494-target-sum](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0494-target-sum) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1906-maximize-score-after-n-operations](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1906-maximize-score-after-n-operations) |
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
