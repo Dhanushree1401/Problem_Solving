@@ -1,3 +1,14 @@
 class Solution:
     def numWays(self, a: List[str], t: str) -> int:
-        return (f:=cache(lambda i,j,z=[*map(Counter,zip(*a))]:i==len(t) or j<len(a[0]) and z[j][t[i]]*f(i+1,j+1)+f(i,j+1)))(0,0)%(10**9+7)
+        z = [*map(Counter, zip(*a))]
+
+        @cache
+        def f(i, j):
+            if i == len(t):
+                return 1
+            if j < len(a[0]):
+                return z[j][t[i]]*f(i+1,j+1) + f(i,j+1)
+            
+            return 0
+        
+        return f(0, 0)%(10**9+7)
