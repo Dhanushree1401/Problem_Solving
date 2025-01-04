@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2107-find-unique-binary-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2107-find-unique-binary-string) |
 | [2232-adding-spaces-to-a-string](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2232-adding-spaces-to-a-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2300-construct-string-with-repeat-limit) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1906-maximize-score-after-n-operations](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1906-maximize-score-after-n-operations) |
 | [1940-maximum-xor-for-each-query](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1940-maximum-xor-for-each-query) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2078-maximum-compatibility-score-sum](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2078-maximum-compatibility-score-sum) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3291-find-if-array-can-be-sorted) |
@@ -357,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1940-maximum-xor-for-each-query](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1940-maximum-xor-for-each-query) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3427-special-array-ii) |
