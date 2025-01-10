@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0787-sliding-puzzle) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0952-word-subsets](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1036-rotting-oranges) |
 | [1063-best-sightseeing-pair](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1063-best-sightseeing-pair) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0952-word-subsets](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0952-word-subsets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0443-string-compression) |
 | [0696-count-binary-substrings](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0696-count-binary-substrings) |
 | [0812-rotate-string](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0812-rotate-string) |
+| [0952-word-subsets](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0952-word-subsets) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1524-string-matching-in-an-array](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1524-string-matching-in-an-array) |
