@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0136-single-number) |
 | [0140-word-break-ii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0220-contains-duplicate-iii) |
 | [0268-missing-number](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0268-missing-number) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0066-plus-one) |
 | [0149-max-points-on-a-line](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0415-add-strings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -548,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0084-largest-rectangle-in-histogram) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0232-implement-queue-using-stacks) |
 | [0739-daily-temperatures](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0780-max-chunks-to-make-sorted) |
