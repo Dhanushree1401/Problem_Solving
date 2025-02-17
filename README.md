@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0952-word-subsets](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0952-word-subsets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1160-letter-tile-possibilities](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1160-letter-tile-possibilities) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0696-count-binary-substrings) |
 | [0812-rotate-string](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0952-word-subsets) |
+| [1160-letter-tile-possibilities](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1160-letter-tile-possibilities) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1502-construct-k-palindrome-strings](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1502-construct-k-palindrome-strings) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1160-letter-tile-possibilities) |
 | [1396-count-servers-that-communicate](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -495,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0051-n-queens) |
 | [0140-word-break-ii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0140-word-break-ii) |
 | [0494-target-sum](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0494-target-sum) |
+| [1160-letter-tile-possibilities](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1160-letter-tile-possibilities) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1906-maximize-score-after-n-operations](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1906-maximize-score-after-n-operations) |
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
