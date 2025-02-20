@@ -1,41 +1,15 @@
+
 class Solution {
-  class TrieNode {
-    TrieNode zero;
-    TrieNode one;
-  }
-  private String dfs(TrieNode p, int n) {
-    if (p==null) {
-      var s=new StringBuilder();
-      while(n-->0) s.append("0");
-      return s.toString();
-    }
-    if(n==1) {
-      if(p.zero!=null && p.one!=null) return "?";
-      return p.zero==null ? "0" : "1";
-    }
+    public String findDifferentBinaryString(String[] nums) {
+        Set<String> seen = new HashSet<>(Arrays.asList(nums));
+        int n = nums.length;
 
-    var s=dfs(p.zero,n-1);
-    if (!s.equals("?")) return "0" + s;
-
-    s=dfs(p.one,n-1);
-    return s.equals("?")?s:"1"+s;
-  }
-
-  public String findDifferentBinaryString(String[] nums) {
-    var root=new TrieNode();
-    for (var a:nums) {
-      var p=root;
-
-      for (var c:a.toCharArray()) {
-        if (c=='0') {
-          if (p.zero==null) p.zero=new TrieNode();
-          p=p.zero;
-        } else {
-          if(p.one==null) p.one=new TrieNode();
-          p=p.one;
+        for (int i = 0; i < (1 << n); i++) {
+            String binary = String.format("%" + n + "s", Integer.toBinaryString(i)).replace(' ', '0');
+            if (!seen.contains(binary)) {
+                return binary;
+            }
         }
-      }
+        return "";
     }
-    return dfs(root, nums[0].length());
-  }
 }
