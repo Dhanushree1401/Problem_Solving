@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2478-longest-nice-subarray](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2478-longest-nice-subarray) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2551-apply-operations-to-an-array](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-maximum-compatibility-score-sum](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2078-maximum-compatibility-score-sum) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2478-longest-nice-subarray](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2478-longest-nice-subarray) |
 | [2509-minimize-xor](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2792-neighboring-bitwise-xor) |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1755-defuse-the-bomb](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1755-defuse-the-bomb) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2478-longest-nice-subarray](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2478-longest-nice-subarray) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2868-continuous-subarrays](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2868-continuous-subarrays) |
