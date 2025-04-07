@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0406-queue-reconstruction-by-height](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0406-queue-reconstruction-by-height) |
 | [0407-trapping-rain-water-ii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0407-trapping-rain-water-ii) |
 | [0414-third-maximum-number](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0414-third-maximum-number) |
+| [0416-partition-equal-subset-sum](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0494-target-sum](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0494-target-sum) |
 | [0605-can-place-flowers](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0605-can-place-flowers) |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0053-maximum-subarray) |
 | [0140-word-break-ii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0140-word-break-ii) |
 | [0368-largest-divisible-subset](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0905-length-of-longest-fibonacci-subsequence) |
