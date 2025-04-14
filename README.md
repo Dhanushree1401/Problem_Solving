@@ -891,5 +891,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0595-big-countries](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0595-big-countries) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
