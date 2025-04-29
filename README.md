@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0066-plus-one) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0053-maximum-subarray) |
 | [0140-word-break-ii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0140-word-break-ii) |
 | [0368-largest-divisible-subset](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0368-largest-divisible-subset) |
@@ -571,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0045-jump-game-ii) |
 | [0135-candy](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0135-candy) |
 | [0409-longest-palindrome](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0409-longest-palindrome) |
 | [0605-can-place-flowers](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0605-can-place-flowers) |
