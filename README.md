@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-sliding-puzzle](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0787-sliding-puzzle) |
 | [0797-rabbits-in-forest](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0797-rabbits-in-forest) |
 | [0854-making-a-large-island](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0854-making-a-large-island) |
+| [0890-lemonade-change](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0890-lemonade-change) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -580,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0797-rabbits-in-forest) |
+| [0890-lemonade-change](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0890-lemonade-change) |
 | [1502-construct-k-palindrome-strings](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1502-construct-k-palindrome-strings) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1917-maximum-average-pass-ratio) |
