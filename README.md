@@ -447,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0055-jump-game) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0140-word-break-ii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0140-word-break-ii) |
 | [0368-largest-divisible-subset](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0416-partition-equal-subset-sum) |
@@ -670,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0988-flip-equivalent-binary-trees) |
@@ -692,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0988-flip-equivalent-binary-trees) |
@@ -784,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0133-clone-graph](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0133-clone-graph) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0684-redundant-connection) |
