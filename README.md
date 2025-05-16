@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0076-minimum-window-substring) |
+| [0087-scramble-string](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0087-scramble-string) |
 | [0126-word-ladder-ii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0126-word-ladder-ii) |
 | [0132-palindrome-partitioning-ii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0140-word-break-ii) |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0055-jump-game) |
+| [0087-scramble-string](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0087-scramble-string) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0132-palindrome-partitioning-ii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0140-word-break-ii) |
