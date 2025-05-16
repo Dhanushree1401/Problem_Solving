@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0085-maximal-rectangle) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0135-candy](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0136-single-number) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0085-maximal-rectangle) |
 | [0407-trapping-rain-water-ii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0787-sliding-puzzle) |
 | [0854-making-a-large-island](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0854-making-a-large-island) |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0055-jump-game) |
+| [0085-maximal-rectangle](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0087-scramble-string) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0132-palindrome-partitioning-ii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0132-palindrome-partitioning-ii) |
@@ -719,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0232-implement-queue-using-stacks) |
 | [0739-daily-temperatures](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0739-daily-temperatures) |
@@ -736,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0085-maximal-rectangle) |
 | [0739-daily-temperatures](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
