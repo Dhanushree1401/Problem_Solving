@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0076-minimum-window-substring) |
 | [0126-word-ladder-ii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0126-word-ladder-ii) |
+| [0132-palindrome-partitioning-ii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0140-word-break-ii) |
 | [0389-find-the-difference](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0409-longest-palindrome) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0132-palindrome-partitioning-ii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0140-word-break-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0368-largest-divisible-subset](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0368-largest-divisible-subset) |
