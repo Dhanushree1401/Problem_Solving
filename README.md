@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0007-reverse-integer) |
+| [0060-permutation-sequence](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0066-plus-one) |
 | [0149-max-points-on-a-line](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -828,6 +829,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0010-regular-expression-matching) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0044-wildcard-matching) |
+| [0060-permutation-sequence](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0060-permutation-sequence) |
 | [2050-count-good-numbers](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2050-count-good-numbers) |
 ## Memoization
 |  |
