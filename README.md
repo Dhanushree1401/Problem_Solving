@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0068-text-justification) |
+| [0073-set-matrix-zeroes](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0084-largest-rectangle-in-histogram) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0076-minimum-window-substring) |
 | [0126-word-ladder-ii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0126-word-ladder-ii) |
 | [0133-clone-graph](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0133-clone-graph) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0085-maximal-rectangle) |
 | [0407-trapping-rain-water-ii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0407-trapping-rain-water-ii) |
