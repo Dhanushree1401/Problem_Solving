@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3643-zero-array-transformation-ii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3643-zero-array-transformation-ii) |
+| [3647-zero-array-transformation-iii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3647-zero-array-transformation-iii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Hash Table
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3291-find-if-array-can-be-sorted](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3291-find-if-array-can-be-sorted) |
 | [3321-type-of-triangle](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3430-count-days-without-meetings) |
+| [3647-zero-array-transformation-iii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Binary Search
 |  |
@@ -578,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3427-special-array-ii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3427-special-array-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3643-zero-array-transformation-ii) |
+| [3647-zero-array-transformation-iii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3647-zero-array-transformation-iii) |
 ## Segment Tree
 |  |
 | ------- |
@@ -622,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2681-put-marbles-in-bags](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2681-put-marbles-in-bags) |
 | [2716-prime-subtraction-operation](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2716-prime-subtraction-operation) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3001-apply-operations-to-maximize-score) |
+| [3647-zero-array-transformation-iii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3647-zero-array-transformation-iii) |
 ## Simulation
 |  |
 | ------- |
@@ -879,6 +883,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2868-continuous-subarrays](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2868-continuous-subarrays) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3647-zero-array-transformation-iii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3647-zero-array-transformation-iii) |
 ## Monotonic Queue
 |  |
 | ------- |
