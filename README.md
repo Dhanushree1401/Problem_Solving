@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-maximum-compatibility-score-sum](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2078-maximum-compatibility-score-sum) |
 | [2089-maximum-matrix-sum](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2089-maximum-matrix-sum) |
 | [2107-find-unique-binary-string](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2107-find-unique-binary-string) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2145-grid-game](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2145-grid-game) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
