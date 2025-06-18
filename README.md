@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0041-first-missing-positive) |
@@ -565,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0075-sort-colors) |
@@ -639,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0055-jump-game) |
