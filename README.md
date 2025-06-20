@@ -585,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0075-sort-colors) |
+| [0143-reorder-list](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0287-find-the-duplicate-number) |
@@ -806,6 +807,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0085-maximal-rectangle) |
+| [0143-reorder-list](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0232-implement-queue-using-stacks) |
 | [0739-daily-temperatures](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0739-daily-temperatures) |
@@ -882,6 +884,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0025-reverse-nodes-in-k-group) |
+| [0143-reorder-list](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0143-reorder-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Depth-First Search
 |  |
@@ -927,6 +930,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0060-permutation-sequence) |
+| [0143-reorder-list](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0143-reorder-list) |
 | [2050-count-good-numbers](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2050-count-good-numbers) |
 ## Memoization
 |  |
