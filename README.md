@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0494-target-sum](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0494-target-sum) |
+| [0594-longest-harmonious-subsequence](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0643-maximum-average-subarray-i) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0594-longest-harmonious-subsequence](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0389-find-the-difference) |
 | [0406-queue-reconstruction-by-height](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0406-queue-reconstruction-by-height) |
 | [0414-third-maximum-number](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0414-third-maximum-number) |
+| [0594-longest-harmonious-subsequence](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0594-longest-harmonious-subsequence) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0780-max-chunks-to-make-sorted) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1675-magnetic-force-between-two-balls) |
@@ -549,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0076-minimum-window-substring) |
 | [0220-contains-duplicate-iii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0220-contains-duplicate-iii) |
+| [0594-longest-harmonious-subsequence](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0643-maximum-average-subarray-i) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0940-fruit-into-baskets](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0940-fruit-into-baskets) |
@@ -570,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0594-longest-harmonious-subsequence) |
 | [1160-letter-tile-possibilities](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1160-letter-tile-possibilities) |
 | [1396-count-servers-that-communicate](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1502-construct-k-palindrome-strings) |
