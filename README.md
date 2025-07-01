@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3447-clear-digits](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3451-string-compression-iii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3617-find-the-original-typed-string-i](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3617-find-the-original-typed-string-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
