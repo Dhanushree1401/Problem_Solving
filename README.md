@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3483-alternating-groups-ii) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -568,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3618-find-the-original-typed-string-ii) |
 ## Sliding Window
 |  |
