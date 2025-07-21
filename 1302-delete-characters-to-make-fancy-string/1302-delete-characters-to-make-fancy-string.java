@@ -1,18 +1,21 @@
 class Solution {
     public String makeFancyString(String s) {
-        if (s.length() < 3) {
-            return s;
-        }
-        
         char[] chars = s.toCharArray();
-        int j = 2;
-        
-        for (int i = 2; i < chars.length; ++i) {
-            if (chars[i] != chars[j - 1] || chars[i] != chars[j - 2]) {
-                chars[j++] = chars[i];
+        char last = chars[0];
+        int count = 1;
+        int pos = 1;
+
+        for (int i = 1; i < chars.length; i++) {
+            if (chars[i] != last) {
+                last = chars[i];
+                count = 0;
             }
+
+            if (++count > 2) continue;
+
+            chars[pos++] = chars[i];
         }
-        
-        return new String(chars, 0, j);
+
+        return new String(chars, 0, pos);
     }
 }
