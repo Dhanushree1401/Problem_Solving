@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2232-adding-spaces-to-a-string](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2232-adding-spaces-to-a-string) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2262-solving-questions-with-brainpower](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2262-solving-questions-with-brainpower) |
@@ -499,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-two-best-non-overlapping-events](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2280-count-good-triplets-in-an-array) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2586-longest-square-streak-in-an-array) |
@@ -611,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1755-defuse-the-bomb) |
 | [1813-maximum-erasure-value](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1813-maximum-erasure-value) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2478-longest-nice-subarray](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2478-longest-nice-subarray) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -700,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2145-grid-game](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2145-grid-game) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2358-number-of-ways-to-split-array](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2691-count-vowel-strings-in-ranges) |
