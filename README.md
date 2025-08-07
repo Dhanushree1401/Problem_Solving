@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3643-zero-array-transformation-ii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3647-zero-array-transformation-iii) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -550,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3227-find-missing-and-repeated-values) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -604,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3618-find-the-original-typed-string-ii) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Sliding Window
 |  |
 | ------- |
