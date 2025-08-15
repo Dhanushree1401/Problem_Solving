@@ -376,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0368-largest-divisible-subset) |
 | [0415-add-strings](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0415-add-strings) |
 | [0797-rabbits-in-forest](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0797-rabbits-in-forest) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0389-find-the-difference) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
@@ -1053,6 +1055,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0143-reorder-list) |
 | [0231-power-of-two](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0342-power-of-four) |
 | [2050-count-good-numbers](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2050-count-good-numbers) |
 ## Memoization
 |  |
