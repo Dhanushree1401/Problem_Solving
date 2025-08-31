@@ -1,52 +1,56 @@
 class Solution {
-    public void solveSudoku(final char[][] board) {
-        final int[] h = new int[9], l = new int[9], d = new int[9];
+    int n = 3;
+    int N = n * n;
+    int[][] rows = new int[N][N + 1];
+    int[][] columns = new int[N][N + 1];
+    int[][] boxes = new int[N][N + 1];
+    char[][] board;
+    boolean sudokuSolved = false;
 
-        for(int i = 0; i < board.length; ++i) {
-            for(int j = 0; j < board[i].length; ++j) {
-                if(board[i][j] != '.') {
-                    final int bitmask = 1 << (board[i][j] - '1');
-                    h[i] |= bitmask;
-                    l[j] |= bitmask;
-                    d[(i / 3) + (j / 3) * 3] |= bitmask;
-                }
-            }
-        }
-
-        backtrack(h, l, d, board, 0, 0);
+    public boolean couldPlace(int d, int row, int col) {
+        int idx = (row / n) * n + col / n;
+        return rows[row][d] + columns[col][d] + boxes[idx][d] == 0;
     }
 
-    private boolean backtrack(final int[] h, final int[] l, final int[] d, final char[][] board, int i, int j) {
-        if(i == board.length)
-            return true;
+    public void placeNumber(int d, int row, int col) {
+        int idx = (row / n) * n + col / n;
+        rows[row][d]++;
+        columns[col][d]++;
+        boxes[idx][d]++;
+        board[row][col] = (char)(d + '0');
+    }
 
-        if(j == board.length)
-            return backtrack(h, l, d, board, i + 1, 0);
+    public void removeNumber(int d, int row, int col) {
+        int idx = (row / n) * n + col / n;
+        rows[row][d]--;
+        columns[col][d]--;
+        boxes[idx][d]--;
+        board[row][col] = '.';
+    }
 
-        if(board[i][j] != '.')
-            return backtrack(h, l, d, board, i, j + 1);
+    public void placeNextNumbers(int row, int col) {
+        if (row == N - 1 && col == N - 1) sudokuSolved = true;
+        else if (col == N - 1) backtrack(row + 1, 0);
+        else backtrack(row, col + 1);
+    }
 
-        for(int k = 0; k < 9; ++k) {
-            final int bitmask = 1 << k, subgridIndex = (i / 3) + (j / 3) * 3;
-
-            if((h[i] & bitmask) == 0 && (l[j] & bitmask) == 0 && (d[subgridIndex] & bitmask) == 0) {
-                h[i] |= bitmask;
-                l[j] |= bitmask;
-                d[subgridIndex] |= bitmask;
-
-                board[i][j] = (char) ('1' + k);
-
-                if(backtrack(h, l, d, board, i, j + 1))
-                    return true;
-
-                h[i] &= ~bitmask;
-                l[j] &= ~bitmask;
-                d[subgridIndex] &= ~bitmask;
-
-                board[i][j] = '.';
+    public void backtrack(int row, int col) {
+        if (board[row][col] == '.') {
+            for (int d = 1; d <= 9; d++) {
+                if (couldPlace(d, row, col)) {
+                    placeNumber(d, row, col);
+                    placeNextNumbers(row, col);
+                    if (!sudokuSolved) removeNumber(d, row, col);
+                }
             }
-        }
+        } else placeNextNumbers(row, col);
+    }
 
-        return false;
+    public void solveSudoku(char[][] board) {
+        this.board = board;
+        for (int i = 0; i < N; i++)
+            for (int j = 0; j < N; j++)
+                if (board[i][j] != '.') placeNumber(Character.getNumericValue(board[i][j]), i, j);
+        backtrack(0, 0);
     }
 }
