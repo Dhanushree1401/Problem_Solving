@@ -1,39 +1,37 @@
-import java.util.PriorityQueue;
 
 class Solution {
     public double maxAverageRatio(int[][] classes, int extraStudents) {
-        int n = classes.length;
-        double x = 0;
-
-        PriorityQueue<int[]> pq = new PriorityQueue<>((a, b) -> {
-            double gainA = gain(a[0], a[1]);
-            double gainB = gain(b[0], b[1]);
-            return Double.compare(gainB, gainA);
+        PriorityQueue<double[]> pq = new PriorityQueue<>(new Comparator<double[]>() {
+            public int compare(double[] a, double[] b) {
+                if (a[0] < b[0]) return 1;
+                if (a[0] > b[0]) return -1;
+                return 0;
+            }
         });
 
-        for (int[] s : classes) {
-            pq.offer(s);
+        for (int i = 0; i < classes.length; i++) {
+            double pass = classes[i][0];
+            double total = classes[i][1];
+            double inc = (pass + 1.0) / (total + 1.0) - pass / total;
+            pq.offer(new double[]{inc, pass, total});
         }
 
-        while (extraStudents-- > 0) {
-            int[] s = pq.poll();
-            s[0]++;
-            s[1]++;
-            pq.offer(s);
+        while (extraStudents > 0) {
+            double[] top = pq.poll();
+            double pass = top[1] + 1;
+            double total = top[2] + 1;
+            double inc = (pass + 1.0) / (total + 1.0) - pass / total;
+            pq.offer(new double[]{inc, pass, total});
+            extraStudents--;
         }
 
-        double max = 0;
-        while (!pq.isEmpty()) {
-            int[] s = pq.poll();
-            max += (double) s[0] / s[1];
+        double sum = 0.0;
+        Object[] arr = pq.toArray();
+        for (int i = 0; i < arr.length; i++) {
+            double[] c = (double[]) arr[i];
+            sum += c[1] / c[2];
         }
 
-        return max / n;
-    }
-
-    private double gain(int a, int b) {
-        double currentRatio = (double) a / b;
-        double newRatio = (double) (a + 1) / (b + 1);
-        return newRatio - currentRatio;
+        return sum / classes.length;
     }
 }
