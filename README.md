@@ -352,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2887-sort-vowels-in-a-string](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2887-sort-vowels-in-a-string) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3194-find-words-containing-character](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3194-find-words-containing-character) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -498,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2689-rearranging-fruits](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2689-rearranging-fruits) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2887-sort-vowels-in-a-string](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2887-sort-vowels-in-a-string) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
