@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0085-maximal-rectangle) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0136-single-number) |
 | [0140-word-break-ii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0140-word-break-ii) |
@@ -627,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0087-scramble-string) |
 | [0118-pascals-triangle](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0132-palindrome-partitioning-ii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0140-word-break-ii) |
