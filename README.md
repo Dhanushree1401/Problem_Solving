@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0952-word-subsets) |
+| [1018-largest-perimeter-triangle](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1018-largest-perimeter-triangle) |
 | [1025-minimum-cost-for-tickets](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1036-rotting-oranges) |
 | [1063-best-sightseeing-pair](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1063-best-sightseeing-pair) |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-soup-servings](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0830-largest-triangle-area) |
 | [0900-reordered-power-of-2](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0900-reordered-power-of-2) |
+| [1018-largest-perimeter-triangle](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1018-largest-perimeter-triangle) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -496,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0594-longest-harmonious-subsequence) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0780-max-chunks-to-make-sorted) |
 | [0900-reordered-power-of-2](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0900-reordered-power-of-2) |
+| [1018-largest-perimeter-triangle](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1018-largest-perimeter-triangle) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -830,6 +833,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0890-lemonade-change) |
+| [1018-largest-perimeter-triangle](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1018-largest-perimeter-triangle) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1502-construct-k-palindrome-strings](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1502-construct-k-palindrome-strings) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
