@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0787-sliding-puzzle) |
+| [0794-swim-in-rising-water](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0830-largest-triangle-area) |
 | [0854-making-a-large-island](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0854-making-a-large-island) |
@@ -553,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0374-guess-number-higher-or-lower) |
 | [0729-my-calendar-i](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0731-my-calendar-ii) |
+| [0794-swim-in-rising-water](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0794-swim-in-rising-water) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -595,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0085-maximal-rectangle) |
 | [0407-trapping-rain-water-ii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0787-sliding-puzzle) |
+| [0794-swim-in-rising-water](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1036-rotting-oranges) |
@@ -1055,6 +1058,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0684-redundant-connection) |
 | [0787-sliding-puzzle](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0787-sliding-puzzle) |
+| [0794-swim-in-rising-water](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0945-snakes-and-ladders) |
@@ -1094,6 +1098,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0386-lexicographical-numbers) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0684-redundant-connection) |
+| [0794-swim-in-rising-water](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0854-making-a-large-island) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0988-flip-equivalent-binary-trees) |
@@ -1155,6 +1160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0407-trapping-rain-water-ii) |
+| [0794-swim-in-rising-water](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0794-swim-in-rising-water) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -1224,6 +1230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0684-redundant-connection) |
+| [0794-swim-in-rising-water](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0854-making-a-large-island) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1396-count-servers-that-communicate](https://github.com/Dhanushree1401/Problem_Solving/tree/master/1396-count-servers-that-communicate) |
