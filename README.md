@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3429-special-array-i](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3548-find-the-count-of-good-integers](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3548-find-the-count-of-good-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -543,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3430-count-days-without-meetings) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3647-zero-array-transformation-iii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Binary Search
@@ -588,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3427-special-array-ii) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3643-zero-array-transformation-ii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3791-fruits-into-baskets-iii) |
@@ -684,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3618-find-the-original-typed-string-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -738,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
@@ -769,6 +775,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Dhanushree1401/Problem_Solving/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Design
 |  |
