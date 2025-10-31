@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3643-zero-array-transformation-ii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3643-zero-array-transformation-ii) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3548-find-the-count-of-good-integers](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3548-find-the-count-of-good-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-vowels-game-in-a-string](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3462-vowels-game-in-a-string) |
 | [3548-find-the-count-of-good-integers](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
