@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3623-count-number-of-trapezoids-i](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3623-count-number-of-trapezoids-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3647-zero-array-transformation-iii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3623-count-number-of-trapezoids-i](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3623-count-number-of-trapezoids-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -481,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-find-the-count-of-good-integers](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3623-count-number-of-trapezoids-i](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3623-count-number-of-trapezoids-i) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -1223,6 +1226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0830-largest-triangle-area) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3623-count-number-of-trapezoids-i](https://github.com/Dhanushree1401/Problem_Solving/tree/master/3623-count-number-of-trapezoids-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
