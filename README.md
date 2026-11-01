@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0494-target-sum](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0494-target-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0605-can-place-flowers) |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0368-largest-divisible-subset) |
 | [0415-add-strings](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0415-add-strings) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0797-rabbits-in-forest](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/Dhanushree1401/Problem_Solving/tree/master/0830-largest-triangle-area) |
